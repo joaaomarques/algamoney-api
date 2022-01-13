@@ -1,7 +1,6 @@
 package com.example.algamoney.api.model;
 
 import javax.persistence.Embeddable;
-import javax.validation.constraints.Size;
 
 @Embeddable
 public class Endereco {
